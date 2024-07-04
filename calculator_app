@@ -1,4 +1,4 @@
-# This is a Calculator aaplication built for practice purposes.
+import math
 
 
 def calculate_average(num1, num2, num3):
@@ -9,6 +9,11 @@ def calculate_average(num1, num2, num3):
 def calculate_percentage(obtained_marks, total_marks):
     """This functions calculates percentage."""
     return (obtained_marks / total_marks) * 100
+
+
+def calculate_sqrt(num):
+    """This function calculates square root"""
+    return math.sqrt(num)
 
 
 def main():

@@ -16,6 +16,11 @@ def calculate_sqrt(num):
     return math.sqrt(num)
 
 
+def calculate_log(num):
+    """This function calculates log"""
+    return math.log(num)
+
+
 def main():
     """This is the driver of the calculator app."""
     print("This is a Calculator")

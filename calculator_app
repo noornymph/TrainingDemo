@@ -1,0 +1,14 @@
+# This is a Calculator aaplication built for practice purposes.
+
+
+def calculate_average(num1, num2, num3):
+    """This function calculates the average of three numbers"""
+    return (num1 + num2 + num3) / 3
+
+
+def main():
+    """This is the driver of the calculator app."""
+    print("This is a Calculator")
+
+
+main()

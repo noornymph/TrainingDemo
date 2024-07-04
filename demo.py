@@ -24,6 +24,7 @@ def multiply_numbers(a, b):
     """
     product = a * b
     print("Hello this is Khadijab Noor")
+    print("Hello this is Khadijab Noor")
     return product
 
 

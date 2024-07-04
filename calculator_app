@@ -6,6 +6,11 @@ def calculate_average(num1, num2, num3):
     return (num1 + num2 + num3) / 3
 
 
+def calculate_percentage(obtained_marks, total_marks):
+    """This functions calculates percentage."""
+    return (obtained_marks / total_marks) * 100
+
+
 def main():
     """This is the driver of the calculator app."""
     print("This is a Calculator")

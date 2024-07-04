@@ -1,6 +1,0 @@
-def main():
-    """This is the driver of the calculator app."""
-    print("This is a Calculator")
-
-
-main()

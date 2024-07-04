@@ -23,6 +23,7 @@ def multiply_numbers(a, b):
         _type_: _description_
     """
     product = a * b
+    print("Hello this is Khadijab Noor")
     return product
 
 

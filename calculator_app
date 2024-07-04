@@ -21,6 +21,11 @@ def calculate_log(num):
     return math.log(num)
 
 
+def display_name():
+    """This function displays my name"""
+    print("Khadija Noor")
+
+
 def main():
     """This is the driver of the calculator app."""
     print("This is a Calculator")
